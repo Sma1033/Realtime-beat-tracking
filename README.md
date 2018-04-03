@@ -17,10 +17,8 @@ python main.py
 ```
 
 ## Demo Video
-Demo video is available on youtube:
-```bash
-https://youtu.be/hW_QP6qfwHQ
-```
+- Demo video is available on youtube: [here](https://youtu.be/hW_QP6qfwHQ)
+
 
 ## License
 
